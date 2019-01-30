@@ -1,7 +1,7 @@
 {
   "name": "parcel-build",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic ParcelJS build that allows the include of partial HTML documents and SASS / ES6 JS",
   "devDependencies": {
     "parcel-bundler": "^1.11.0",
     "posthtml-include": "^1.2.0",
